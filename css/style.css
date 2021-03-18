@@ -171,9 +171,10 @@ header{
   }
 
   /*Requirement 16*/
-  .class {
-
+  .price{
+    
     align-items: flex-end;
+  }
 
   }
 
