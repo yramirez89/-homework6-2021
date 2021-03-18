@@ -176,8 +176,6 @@ header{
     align-items: flex-end;
   }
 
-  }
-
   /*Requirement 17*/
   .package {
     flex-basis: 200px;
